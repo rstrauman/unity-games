@@ -1,33 +1,36 @@
-# Unity Games Collection
-
+Unity Games Collection
 This repository contains WebGL builds of my Unity projects, showcasing different game prototypes and mechanics.
 
-## Included Games
-
-### Roboman
+Included Games
+Roboman
 A Flappy Bird–inspired arcade game where players control Roboman through increasingly difficult obstacles. The game offers three difficulty levels and culminates in a boss fight, adding depth and excitement to the classic formula.
 
-- Play it here: [Roboman Demo](https://rstrauman.github.io/unity-games/Roboman/)
-- Source code and project files available in the `Roboman` folder.
+▶️ Play Roboman
 
-### [Other Game]
-_(Add description and link as you add more games)_
+📁 Source files in the Roboman folder
 
----
+Paper Mario
+A 2.5D platformer inspired by Paper Mario 64, built as a 3D Unity project. Explore handcrafted environments and engage in simple turn-based battles with Goombas in this nostalgic tribute to Mario's papery adventures.
 
-## How to Play Locally
+▶️ Play Paper Mario
 
-To play any of the games locally, open the `index.html` file inside the respective game folder in a modern browser.
+📁 Source files in the PaperMario folder
 
----
+How to Play Locally
+To play any of the games locally:
 
-## How to Build
+Navigate to the game's folder (e.g., Roboman, PaperMario)
 
-Each game folder contains the WebGL build output from Unity. The original Unity projects are maintained separately.
+Open index.html in a modern browser
 
----
+How to Build
+Each folder contains the WebGL build output exported directly from Unity. The full Unity project files are managed in separate repositories.
 
-## Contact
+Contact
+For questions or collaboration, feel free to reach out via my GitHub profile:
+🔗 github.com/rstrauman
 
-For questions or collaboration, feel free to reach out via my GitHub profile:  
-[https://github.com/rstrauman](https://github.com/rstrauman)
+Let me know if you want to add screenshots, controls, or credits to each section — happy to expand it!
+
+
+
